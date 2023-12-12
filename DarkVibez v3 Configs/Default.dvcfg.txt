@@ -1,0 +1,31 @@
+The default DarkVibez v3 config
+For DarkVibez with CFGID 2.0
+
+/* Config (Default | CFGID: 2.0) */
+  --bg-main: linear-gradient(to top right, #000000, #000000); 
+  --bg-chat: #ffffff15;
+  --bg-ucount-1: #303030; 
+  --bg-ucount-2: #222222; 
+  --ucount-text-color: #ffffff6b;
+  --bg-card: #2b2b2b; 
+  --bg-card-2: #242424; 
+  --bg-card-border: #ffffff21; 
+  --color-scheme: #5e5e5e; 
+  --font: 'Figtree', sans-serif; 
+  --btn-hovered: #202020; 
+  --btn-selected: #2e2e2e; 
+  --dividercolor: #ffffff18;
+  --dropdown-menu-bg: #2c2c2c;
+  --dropdown-menu-border: #363636;
+  --dropdown-menu-text-color: #c2c2c2;
+  --dropdown-menu-text-color-hovered: #ffffff;
+  --dropdown-menu-text-color-critical: #ff3939;
+  --modal-blur: 5px;
+  --modal-bg: #ffffff10;
+  --modal-border: #ffffff12;
+  --topleft-border-radius: 14px; 
+  --bottomleft-border-radius: 0px;
+  --chat-typebox: #ffffff10;
+  --chat-typebox-colors: #ffffff65;
+  --chat-typebox-hover-colors: #ffffff85;
+  --username-prefix: '@';

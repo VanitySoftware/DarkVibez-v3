@@ -1,0 +1,31 @@
+"Classic" by Vanity (v1.0)
+For DarkVibez with CFGID 2.0
+
+/* Config ("Classic" v1.0 by Vanity | CFGID: 2.0) */
+  --bg-main: linear-gradient(to top right, #000000, #222222); 
+  --bg-chat: #ffffff15;
+  --bg-ucount-1: #303030; 
+  --bg-ucount-2: #222222; 
+  --ucount-text-color: #ffffff6b;
+  --bg-card: #474747; 
+  --bg-card-2: #242424; 
+  --bg-card-border: #ffffff16; 
+  --color-scheme: #6e6e6e; 
+  --font: 'Figtree', sans-serif; 
+  --btn-hovered: #ffffff1f; 
+  --btn-selected: #ffffff2f; 
+  --dividercolor: #ffffff18;
+  --dropdown-menu-bg: linear-gradient(to top right, #141414, #3b3b3b);
+  --dropdown-menu-border: #3b3b3b;
+  --dropdown-menu-text-color: #b6b6b6;
+  --dropdown-menu-text-color-hovered: #ffffff;
+  --dropdown-menu-text-color-critical: #ff3939;
+  --modal-blur: 0px;
+  --modal-bg: linear-gradient(to top right, #141414, #3b3b3b);
+  --modal-border: #3b3b3b;
+  --topleft-border-radius: 14px; 
+  --bottomleft-border-radius: 0px;
+  --chat-typebox: #ffffff10;
+  --chat-typebox-colors: #ffffff8f;
+  --chat-typebox-hover-colors: #ffffffce;
+  --username-prefix: '@';

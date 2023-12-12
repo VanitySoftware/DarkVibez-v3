@@ -1,0 +1,31 @@
+"DarkBG" by Vanity (v2.0)
+For DarkVibez with CFGID 2.0
+
+/* Config ("DarkBG" v1.0 by Vanity | CFGID: 2.0) */
+  --bg-main: url(https://i.imgur.com/YpWTHWI.png); 
+  --bg-chat: #ffffff10;
+  --bg-ucount-1: #555555; 
+  --bg-ucount-2: #3f3f3f; 
+  --ucount-text-color: #ffffffa4;
+  --bg-card: #ffffff27; 
+  --bg-card-2: #00000018; 
+  --bg-card-border: #ffffff17; 
+  --color-scheme: #ffffff71; 
+  --font: 'Figtree', sans-serif; 
+  --btn-hovered: #ffffff21; 
+  --btn-selected: #ffffff3a; 
+  --dividercolor: #ffffff23;
+  --dropdown-menu-bg: #252525;
+  --dropdown-menu-border: #414141;
+  --dropdown-menu-text-color: #c2c2c2;
+  --dropdown-menu-text-color-hovered: #ffffff;
+  --dropdown-menu-text-color-critical: #ff3939;
+  --modal-blur: 5px;
+  --modal-bg: #ffffff15;
+  --modal-border: #ffffff12;
+  --topleft-border-radius: 14px; 
+  --bottomleft-border-radius: 0px;
+  --chat-typebox: #ffffff10;
+  --chat-typebox-colors: #ffffff60;
+  --chat-typebox-hover-colors: #ffffff80;
+  --username-prefix: '@';

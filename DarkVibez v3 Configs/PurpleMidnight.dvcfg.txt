@@ -1,0 +1,31 @@
+"PurpleMidnight" by Vanity (v2.0)
+For DarkVibez with CFGID 2.0
+
+/* Config ("PurpleMidnight" v2.0 by Vanity | CFGID: 2.0) */
+    --bg-main: linear-gradient(to top right, #1f0033, #000000); 
+    --bg-chat: #ffffff10;
+    --bg-ucount-1: #4a0075; 
+    --bg-ucount-2: #2d004b; 
+    --ucount-text-color: #ffffffa4;
+    --bg-card: #410961; 
+    --bg-card-2: #00000036; 
+    --bg-card-border: #ffffff28; 
+    --color-scheme: #670bbd; 
+    --font: 'Figtree', sans-serif; 
+    --btn-hovered: #25003d; 
+    --btn-selected: #39005f; 
+    --dividercolor: #ffffff18;
+    --dropdown-menu-bg: #2a0046;
+    --dropdown-menu-border: #40006b;
+    --dropdown-menu-text-color: #c2c2c2;
+    --dropdown-menu-text-color-hovered: #ffffff;
+    --dropdown-menu-text-color-critical: #ff3939;
+    --modal-blur: 5px;
+    --modal-bg: #ffffff10;
+    --modal-border: #ffffff12;
+    --topleft-border-radius: 14px; 
+    --bottomleft-border-radius: 0px;
+    --chat-typebox: #ffffff10;
+    --chat-typebox-colors: #ffffff60;
+    --chat-typebox-hover-colors: #ffffff80;
+    --username-prefix: '@';
